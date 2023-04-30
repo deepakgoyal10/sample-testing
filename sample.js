@@ -16,3 +16,6 @@ var totalNum = sum(list)
 
 
 console.log(totalNum)
+
+
+// making changes
